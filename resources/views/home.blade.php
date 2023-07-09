@@ -80,7 +80,7 @@
                 <h1>About Us</h1>
                 <h4>Gestionando desde inicios de año</h4>
                 <p>
-                    TEST 
+                    Proyecto desarrollado al enfoque de un parqueo, registrando y eliminando registros (Sujeto a cambios) 
                 </p>
             </div>
         </section>
